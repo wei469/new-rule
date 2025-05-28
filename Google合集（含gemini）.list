@@ -429,8 +429,9 @@ DOMAIN-SUFFIX,staging-controlbe.floonet.goog
 DOMAIN-SUFFIX,staging-databe.floonet.goog
 DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,blog.google
-DOMAIN-SUFFIX,deepmind.google # From Gemini, also covered by .google
-DOMAIN-SUFFIX,generativeai.google # From Gemini, also covered by .google
+DOMAIN-SUFFIX,deepmind.google 
+DOMAIN-SUFFIX,generativeai.google 
+# From Gemini, also covered by .google
 DOMAIN-SUFFIX,registry.google
 DOMAIN-SUFFIX,blogspot.gr
 DOMAIN-SUFFIX,google.gr
