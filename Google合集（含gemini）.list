@@ -1,9 +1,3 @@
-# NAME: Google  Rules
-# UPDATED: 2025-5-28 (手动合并日期)
-# This list combines rules from Google.list and Gemini.list, focusing on domain-based rules.
-# Original Google.list RuleCount was approx 717. Original Gemini.list TOTAL was 13.
-# USER-AGENT and IP-CIDR rules from the original Google.list have been excluded for general use.
-
 
 # --- From Google.list (and merged with Gemini.list where applicable) ---
 DOMAIN,lens.l.google.com
