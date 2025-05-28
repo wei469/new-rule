@@ -1,5 +1,5 @@
 # NAME: Google  Rules
-# UPDATED: 2025-5-28 (手动合并日期)
+# UPDATED: 2025-5-28 
 # This list combines rules from Google.list and Gemini.list, focusing on domain-based rules.
 # Original Google.list RuleCount was approx 717. Original Gemini.list TOTAL was 13.
 # USER-AGENT and IP-CIDR rules from the original Google.list have been excluded for general use.
@@ -713,7 +713,7 @@ DOMAIN-SUFFIX,google.co.za
 DOMAIN-SUFFIX,google.co.zm
 DOMAIN-SUFFIX,google.co.zw
 DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,google # This is very broad, but was in the original Google.list
+DOMAIN-KEYWORD,google 
 DOMAIN-KEYWORD,appspot
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,recaptcha
